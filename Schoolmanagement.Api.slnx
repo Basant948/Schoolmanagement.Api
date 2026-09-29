@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Dockerfile" />
+  </Folder>
+  <Project Path="Schoolmanagement.Api/Schoolmanagement.Api.csproj" />
+  <Project Path="SchoolManagement.Application/SchoolManagement.Application.csproj" />
+  <Project Path="SchoolManagement.Domain/SchoolManagement.Domain.csproj" />
+  <Project Path="SchoolManagement.Infrastructure/SchoolManagement.Infrastructure.csproj" />
+</Solution>
